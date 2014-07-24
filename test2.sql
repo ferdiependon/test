@@ -1,4 +1,4 @@
-CREATE TABLE `test` (
+CREATE TABLE `test2` (
   `player_id` int(10) unsigned NOT NULL,
   `num_kill` int(10) unsigned NOT NULL,
   `test` int(10) unsigned NOT NULL,
