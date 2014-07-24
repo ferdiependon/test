@@ -4,5 +4,6 @@ CREATE TABLE `test` (
   `test` int(10) unsigned NOT NULL,
   `test2` int(10) unsigned NOT NULL,
   `test3` int(10) unsigned NOT NULL,
+  `test4` int(10) unsigned NOT NULL,
   PRIMARY KEY (`player_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1

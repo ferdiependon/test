@@ -3,5 +3,6 @@ CREATE TABLE `test2` (
   `num_kill` int(10) unsigned NOT NULL,
   `test` int(10) unsigned NOT NULL,
   `test5` int(10) unsigned NOT NULL,
+  `test6` int(10) unsigned NOT NULL,
    PRIMARY KEY (`player_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1
