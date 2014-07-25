@@ -6,3 +6,8 @@ CREATE TABLE `test2` (
   `test6` int(10) unsigned NOT NULL,
    PRIMARY KEY (`player_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1
+
+CREATE TABLE `try` (
+  `player_id` int(10) unsigned NOT NULL,
+   PRIMARY KEY (`player_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1
